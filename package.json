@@ -1,0 +1,23 @@
+{
+  "name": "fengshanggouwu",
+  "version": "1.0.0",
+  "description": "This is a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fourfires1/fengshanggouwu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fourfires1/fengshanggouwu/issues"
+  },
+  "homepage": "https://github.com/fourfires1/fengshanggouwu#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
